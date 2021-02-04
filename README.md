@@ -2,7 +2,7 @@
 
 Previously, I added PWA capabilities to a react app
 
-Now, I am testing the React Components' output with Enzyme ![Enzyme](https://enzymejs.github.io/enzyme/)
+Now, I am testing the React Components' output with [Enzyme](https://enzymejs.github.io/enzyme/).
 
 ## Dependencies
 
